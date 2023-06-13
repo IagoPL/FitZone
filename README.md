@@ -47,10 +47,6 @@ FitZone es una aplicación web diseñada para ayudarte a mejorar tu experiencia 
 
 FitZone es desarrollado y mantenido por [Iago Prieto Lamas](https://github.com/IagoPL).
 
-## Licencia
-
-Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
-
 ## Agradecimientos
 
 - [Angular](https://angular.io)
