@@ -23,7 +23,7 @@ La interfaz de usuario de FitZone se compone de las siguientes secciones princip
 
 La paleta de colores utilizada en FitZone está diseñada para transmitir energía, vitalidad y motivación. Aquí tienes los colores principales utilizados en la aplicación:
 
-1. Azul Primario ([#2980b9](https://www.color-hex.com/color/2980b9))
+1. Azul Primario ([#4062FF](https://www.color-hex.com/color/4062FF))
    - Se utiliza como color principal para resaltar elementos clave y botones interactivos.
 
 2. Verde Secundario ([#27ae60](https://www.color-hex.com/color/27ae60))
